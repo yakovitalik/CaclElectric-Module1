@@ -5,3 +5,7 @@
 
 Написана на Java с использованием GUI библиотек SWING, AWT.
 
+![image](https://github.com/yakovitalik/CaclElectric-Module1/Module1Demo.gif)
+Описание:
+https://github.com/yakovitalik/CaclElectric-Module1/Module1Demo.gif
+ URL-адрес ссылки - это URL-адрес ссылки, отображаемый в github после загрузки изображения в формате gif.
