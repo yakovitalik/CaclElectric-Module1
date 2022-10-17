@@ -5,4 +5,4 @@
 
 Написана на Java с использованием GUI библиотек SWING, AWT.
 
-<img src=[адрес_расположения_вашей_анимации/имя_файла.gif](https://github.com/yakovitalik/CaclElectric-Module1/Module1Demo.gif)>
+<img src=https://github.com/yakovitalik/CaclElectric-Module1/blob/main/Module1Demo.gif>
