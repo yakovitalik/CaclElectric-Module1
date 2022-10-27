@@ -5,4 +5,6 @@
 
 Написана на Java с использованием GUI библиотек SWING, AWT.
 
+<html>
 <img src=https://github.com/yakovitalik/CaclElectric-Module1/blob/main/Module1Demo.gif>
+</html>
